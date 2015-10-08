@@ -1,8 +1,7 @@
 ---
 author: Richard M. Smith
-
 ---
-
+[![Build Status](https://travis-ci.org/Smudgerville/SmudgeR.svg?branch=master)](https://travis-ci.org/Smudgerville/SmudgeR)
 
 ## SmudgeR
 
