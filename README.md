@@ -5,10 +5,15 @@ author: Richard M. Smith
 
 ## SmudgeR
 
-A personal R package for reuable functions in my workflow.
+A personal R package for reusable workflow functions.
 
 ## Install
 
 ```r
 devtools::install_github('smudgerville/SmudgeR')
 ```
+
+## To Do
+
+**stdpks()**
+- exlude
