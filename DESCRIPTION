@@ -15,4 +15,6 @@ Imports:
     readxl
 Suggests:
     ggvis,
-    dygraphs
+    dygraphs,
+    testthat
+RoxygenNote: 5.0.1
